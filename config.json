@@ -1,3 +1,8 @@
 {
-  "min_version": "1.2.6"
+  "min_version": "1.2.6",
+  "desktop": {
+    "latest_version": "2.4.2",
+    "download_url": "https://github.com/AbbasiAbdulSamad/Gold_Manager_Pro_App/releases/download/v2.4.2/GoldManagerPro-Setup.exe",
+    "release_notes": "WebP Compression & Performance Improvements"
+  }
 }

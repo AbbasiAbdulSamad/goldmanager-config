@@ -1,7 +1,7 @@
 {
   "min_version": "1.4.2",
   "desktop": {
-    "min_version": "2.4.2",
+    "min_version": "2.4.1",
     "latest_version": "2.4.2",
     "download_url": "https://github.com/AbbasiAbdulSamad/Gold_Manager_Pro_App/releases/download/v2.4.2/GoldManagerPro-Setup.exe",
     "release_notes": "Bug fixes and improvements"

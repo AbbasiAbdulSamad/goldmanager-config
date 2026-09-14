@@ -1,9 +1,9 @@
 {
   "min_version": "1.4.2",
   "desktop": {
-    "min_version": "1.5.5",
-    "latest_version": "2.5.5",
-    "download_url": "https://goldmanagerpro.app/downloads/GoldManagerPro_Setup_v2-5-5.exe",
+    "min_version": "2.5.5",
+    "latest_version": "2.5.6",
+    "download_url": "https://goldmanagerpro.app/downloads/GoldManagerPro_Setup_v2-5-6.exe",
     "release_notes": "Bug fixes and improvements"
   }
 }
